@@ -10,11 +10,6 @@ This is a simple RESTful API project that allows you to perform CRUD (Create, Re
 - Mongoose (ODM)
 - ThunderClient (API testing)
 
-
-## Setup
-
-The server will start running at http://localhost:3000.
-
 ## API Endpoints
 
 GET /api/items: Retrieve all items from the database.
@@ -48,3 +43,25 @@ Click the Send button to send the request and view the response.
 
 ### Get a specific Item using ID
 - <img width="960" alt="Get a specific item by id" src="https://github.com/mihirwankhade10/restfull-crud-api-s-/assets/87888969/25b343f5-f90c-48ba-9752-092408e39548">
+
+## Setup
+1. Clone the repository:
+
+```bash
+git clone https://github.com/mihirwankhade10/restful-crud-api.git
+
+2. Install the dependencies:
+
+cd restful-crud-api
+npm install
+
+3. Set up the MongoDB connection:
+
+Open the config/db.js file.
+Replace the <your-mongodb-connection-string> placeholder with your actual MongoDB connection string.
+
+4. Start the server:
+
+npm start
+
+The server will start running at http://localhost:3000.
