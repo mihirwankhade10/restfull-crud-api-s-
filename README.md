@@ -33,12 +33,18 @@ If required, add request body and headers.
 Click the Send button to send the request and view the response.
 
 ## Screenshots
+
+### Create a new Item
 - <img width="960" alt="create a new item" src="https://github.com/mihirwankhade10/restfull-crud-api-s-/assets/87888969/b55fe727-3056-45b9-8fd3-5c9deeec1ab4">
 
+### Get all Items
 - <img width="960" alt="get all items" src="https://github.com/mihirwankhade10/restfull-crud-api-s-/assets/87888969/76965347-387a-4ac0-bae0-77e16edda0e6">
 
+### Update an existing Item using ID
 - <img width="960" alt="update an existing item" src="https://github.com/mihirwankhade10/restfull-crud-api-s-/assets/87888969/60c030a9-7c62-4c63-9559-b9277b073157">
 
+### Delete an existing Item using ID
 - <img width="960" alt="delete an item" src="https://github.com/mihirwankhade10/restfull-crud-api-s-/assets/87888969/9c4ac867-9f45-4ebc-8ad2-2bc663d96b72">
 
+### Get a specific Item using ID
 - <img width="960" alt="Get a specific item by id" src="https://github.com/mihirwankhade10/restfull-crud-api-s-/assets/87888969/25b343f5-f90c-48ba-9752-092408e39548">
