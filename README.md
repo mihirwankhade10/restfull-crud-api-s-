@@ -51,17 +51,13 @@ Click the Send button to send the request and view the response.
 git clone https://github.com/mihirwankhade10/restful-crud-api.git
 
 2. Install the dependencies:
-
 cd restful-crud-api
 npm install
 
 3. Set up the MongoDB connection:
-
 Open the config/db.js file.
 Replace the <your-mongodb-connection-string> placeholder with your actual MongoDB connection string.
 
 4. Start the server:
-
 npm start
-
 The server will start running at http://localhost:3000.
